@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SpdlogWrapperCSharp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
